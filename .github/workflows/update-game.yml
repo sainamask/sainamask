@@ -2,8 +2,8 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '0 0 * * *'   # daily at midnight UTC
-  workflow_dispatch:        # allow manual runs from the Actions tab
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,14 +12,13 @@ jobs:
   update-game:
     runs-on: ubuntu-latest
     steps:
-      # 1. FIXED: Changed fetch-depth to 0 to pull your ENTIRE commit history
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      # 2. UPDATED: Running the shooter engine with your history
       - uses: czl9707/gh-space-shooter@v2
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          # UPDATED: Using your new secret token to pull private history
+          github-token: ${{ secrets.GAME_TOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
