@@ -7,23 +7,18 @@
 
 ---
 
-### 📊 Git Status & Stacks
+# 💫 About Me
+Computer Engineer & Flutter Developer crafting smooth mobile apps, UI animations, and digital graphics.
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <!-- Fixed .com to .app -->
-      <img src="https://github-readme-stats.vercel.app/api?username=sainamask&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" alt="Saina's GitHub stats" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /><br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
-  </tr>
-</table>
+* ⚡ **Fun fact:** I like orange 🍊
 
 ---
 
-# 💫 About Me:
-⚡ **Fun fact:** I like orange 🍊
+### 📊 Git Status & My Main Kit
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=sainamask&show_icons=true&theme=visual_studio_code&hide_border=true&count_private=true" width="49%" align="left" alt="Saina's GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sainamask&layout=compact&theme=visual_studio_code&hide_border=true&count_private=true" width="49%" align="right" alt="Saina's Top Stacks" />
+</p>
+
+<br clear="all" />
