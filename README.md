@@ -12,7 +12,6 @@
   <img src="game.gif" alt="GitHub contribution graph rendered as a space shooter game" />
 </p>
 
-> Powered by [gh-space-shooter](https://github.com/czl9707/gh-space-shooter) — my contribution graph rendered as a Galaga-style space shooter. It refreshes automatically every day. ⭐
 
 ---
 
