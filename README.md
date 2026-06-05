@@ -1,3 +1,22 @@
+# Hi, I'm Saina 👋
+
+### 🎮 Visuals & Contributions
+<p align="center">
+  <img src="game.gif" alt="GitHub contribution graph rendered as a space shooter game" width="100%" />
+</p>
+
+---
+
+### 📊 Git Status & Most Used Stacks
+
+<p align="center">
+  <!-- General GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&theme=visual_studio_code&hide_border=true" alt="Saina's GitHub stats" width="48%" />
+  
+  <!-- Automatically generated Most Used Languages/Stacks Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&theme=visual_studio_code&hide_border=true" alt="Saina's Top Stacks" width="48%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm <Saina></h1>
 
 <p align="center">
