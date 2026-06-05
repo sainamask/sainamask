@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - uses: czl9707/gh-space-shooter@v2
         with:
-          # UPDATED: Using your new secret token to pull private history
+          # FIXED: Swapping secrets.GITHUB_TOKEN to your secrets.GAME_TOKEN
           github-token: ${{ secrets.GAME_TOKEN }}
           output-path: 'game.gif'
           strategy: 'random'
+          # ADDED: This explicitly forces the engine to fetch your global profile matrix, not just this local repo
+          type: 'user'
